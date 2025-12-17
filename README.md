@@ -187,6 +187,3 @@ Jupyter Notebook
 ✔ Clean UI for demonstration
 
 ✍️ Author
-
-Sumitha A
-CSE Student — AI/ML Virtual Internship
