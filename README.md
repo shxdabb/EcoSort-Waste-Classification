@@ -4,7 +4,7 @@ A Deep Learning–based waste classification system that identifies images of wa
 
 This project supports sustainable waste management by automating waste segregation and making recycling more efficient.
 
-📌 Project Goals
+ Project Goals
 
 Build a CNN to classify types of waste
 
