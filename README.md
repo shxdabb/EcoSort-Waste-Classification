@@ -18,7 +18,7 @@ Support sustainability through AI-based waste segregation
 
 🗂️ Waste Categories
 
-The system classifies waste into 10 classes:s
+The system classifies waste into 10 classes:
 
 battery
 
