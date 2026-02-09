@@ -16,6 +16,7 @@ Provide an easy-to-use UI for real-time testing
 
 Support sustainability through AI-based waste segregation
 
+
 🗂️ Waste Categories
 
 The system classifies waste into 10 classes:
